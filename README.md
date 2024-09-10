@@ -1,5 +1,5 @@
-# Food-detection-ML-model-prototype-video
-Food detection ML model prototype video 
+# Food Detection ML Model Prototype Video
+This section shows the food detection ML model prototype video.
 
 # AI Food Calorie Checker App
 
@@ -22,23 +22,15 @@ This project develops an AI-powered mobile app using **YOLOv8** for real-time fo
 - **YOLOv8:** For food recognition.
 - **PyTorch:** Backend AI model framework.
 - **React Native:** For cross-platform mobile app development.
+
 ## Images
 ![Food Recognition with YOLOv8](https://bennycheung.github.io/images/yolo-for-real-time-food-detection/Food100_YOLOv2_Tests02_700.jpg)
 
 ## Video
+If your video is hosted locally or online and accessible, you can embed it using HTML:
+
 
 <video width="640" height="360" autoplay loop muted controls>
   <source src="final2.mp4" type="video/mp4">
- Ml model  video
+  Your browser does not support the video tag.
 </video>
-
-
-
-
-
-
-
-## Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-food-calorie-checker.git
