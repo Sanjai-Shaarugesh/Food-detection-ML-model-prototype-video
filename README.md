@@ -22,11 +22,13 @@ This project develops an AI-powered mobile app using **YOLOv8** for real-time fo
 - **YOLOv8:** For food recognition.
 - **PyTorch:** Backend AI model framework.
 - **React Native:** For cross-platform mobile app development.
-
 ## Images
-- ![Food Recognition with YOLOv8](https://your-image-link.com/food-recognition-yolov8)
-- ![Calorie Tracking UI](https://your-image-link.com/calorie-tracking-ui)
-- ![Indian Cuisine Database](https://your-image-link.com/indian-cuisine-database)
+![Food Recognition with YOLOv8](https://your-image-link.com/food-recognition-yolov8)
+
+![Calorie Tracking UI](https://your-image-link.com/calorie-tracking-ui)
+
+![Indian Cuisine Database](https://your-image-link.com/indian-cuisine-database)
+
 
 ## Installation & Setup
 1. Clone the repository:
