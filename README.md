@@ -27,10 +27,8 @@ This project develops an AI-powered mobile app using **YOLOv8** for real-time fo
 
 ## Video
 
-<video width="600" controls>
-  <source src="final2.mp4" type="video/mp4">
-ML model video
-</video>
+[Download or View Video](https://github.com/Sanjai-Shaarugesh/Food-detection-ML-model-prototype-video/blob/main/final2.mp4)
+
 
 
 
