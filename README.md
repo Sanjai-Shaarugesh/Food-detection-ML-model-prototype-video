@@ -25,7 +25,13 @@ This project develops an AI-powered mobile app using **YOLOv8** for real-time fo
 ## Images
 ![Food Recognition with YOLOv8](https://bennycheung.github.io/images/yolo-for-real-time-food-detection/Food100_YOLOv2_Tests02_700.jpg)
 
-![Calorie Tracking UI](https://cdn.dribbble.com/users/118309/screenshots/17581401/media/53e5d4eca01c5af47bcb89aad2fa1bd6.png?resize=400x0)
+## Video
+
+<video width="600" controls>
+  <source src="final2.mp4" type="video/mp4">
+ML model video
+</video>
+
 
 
 
