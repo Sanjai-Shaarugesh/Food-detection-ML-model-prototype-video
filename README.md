@@ -29,8 +29,4 @@ This project develops an AI-powered mobile app using **YOLOv8** for real-time fo
 ## Video
 If your video is hosted locally or online and accessible, you can embed it using HTML:
 
-
-<video width="640" height="360" autoplay loop muted controls>
-  <source src="final2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/065a97eb-e2f6-4430-8d0e-2004ca034bb7
