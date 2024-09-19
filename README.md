@@ -27,6 +27,6 @@ This project develops an AI-powered mobile app using **YOLOv8** for real-time fo
 ![Food Recognition with YOLOv8](https://bennycheung.github.io/images/yolo-for-real-time-food-detection/Food100_YOLOv2_Tests02_700.jpg)
 
 ## Video
-If your video is hosted locally or online and accessible, you can embed it using HTML:
+
 
 https://github.com/user-attachments/assets/065a97eb-e2f6-4430-8d0e-2004ca034bb7
